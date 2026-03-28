@@ -99,7 +99,8 @@ dtb-$(CONFIG_ARCH_SUNXI) += \
 	sun50i-h616-tft35_spi.dtbo \
 	sun50i-h616-mcp2515.dtbo \
 	sun50i-h616-ws2812.dtbo \
-	sun50i-h616-light.dtbo
+	sun50i-h616-light.dtbo \
+	sun55i-a527-cubie-a5e-spi-nor.dtbo
 
 scr-$(CONFIG_ARCH_SUNXI) += \
 	sun50i-a64-fixup.scr \
